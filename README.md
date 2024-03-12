@@ -1,7 +1,7 @@
-![A preview](https://github.com/junaidsherazi/junaidsherazi.github.io/blob/main/images/banner.png)
+![A preview](https://github.com/junaidsherazi/syed-webdeveloper.github.io/blob/main/images/banner.png)
 
 # Personal Portfolio 
-> [junaidsherazi.github.io/](https://junaidsherazi.github.io/)
+> [syed-webdeveloper.github.io/](https://syed-webdeveloper.github.io/)
 
 - **Framework**: [Angular14](https://angular.io/)
 - **Styling**: [SCSS](https://sass-lang.com/)
@@ -26,7 +26,7 @@
 ## Running Locally
 
 ```bash
-$ git clone https://github.com/junaidsherazi/junaidsherazi.github.io.git
+$ git clone https://github.com/junaidsherazi/syed-webdeveloper.github.io.git
 $ cd braydoncoyer.dev
 $ npm install
 $ ng serve
